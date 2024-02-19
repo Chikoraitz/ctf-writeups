@@ -67,7 +67,7 @@ The algorithm is a 4-step process:
 
 If $p$ and $q$ were somehow found, $\phi(n)$ can be computed and since $e$ is released as part of the public key, $d$ can also be computed. Hence, finding $d$ is a prime factorization problem. To find the factors, we can use the [`FactorDB`](https://factordb.com/) database to find known factorizations for any number.
 
-The `p` and `q` of the provided `n` are respectively: `2434792384523484381583634042478415057961` and `6508096157420555814598202533569873963`. 
+The `p` and `q` of the provided `n` are respectively: `2434792384523484381583634042478415057961` and `650809615742055581459820253356987396346063`. 
 
 ```python
 from Crypto.Util.number import inverse, long_to_bytes
