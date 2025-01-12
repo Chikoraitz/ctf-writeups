@@ -18,4 +18,4 @@ Official Github repository with the challenges binaries: https://github.com/Keys
 
 ## Quest Map
 
-![quest-map](/home/leonardo/Projects/github-repos/ctf-writeups/rhme-2016/quest-map/quest-map.png)
+![quest-map](quest-map/quest-map.png)
